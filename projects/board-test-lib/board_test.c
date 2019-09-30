@@ -255,7 +255,7 @@ static void prvLCDTask (void *pvParameters)
                         OPAQUE_TEXT);
 
     Graphics_drawString(&g_sContext,
-                        "Curs/Curso 2018-1",
+                        "Curs/Curso 2019-1",
                         AUTO_STRING_LENGTH,
                         15,
                         90,
